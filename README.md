@@ -46,7 +46,7 @@ This will create an executable file inside the `dist/` directory.
 This project is licensed under the MIT License. Feel free to modify and distribute it as needed.
 
 ## Author
-[Your Name]
+Sachith Shilshan
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request on GitHub.
