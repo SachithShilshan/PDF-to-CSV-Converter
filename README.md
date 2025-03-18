@@ -19,6 +19,8 @@ pip install pdfplumber pandas tkinter
 ```
 
 ## Usage
+![image](https://github.com/user-attachments/assets/71538dde-fed6-4b64-80fc-495a28c805ec)
+
 ### Running the Script
 1. Run the Python script:
    ```bash
